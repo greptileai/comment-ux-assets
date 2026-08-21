@@ -2,5 +2,5 @@
 <rect x="0.5" y="0.5" width="83" height="23" rx="5" fill="#212830"/>
 <rect x="0.5" y="0.5" width="83" height="23" rx="5" fill="none" stroke="#3D444D"/>
 <text x="9" y="16.5" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#28E99F">&#8635;</text>
-<text x="24" y="16" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="500" fill="#28E99F">Retrigger</text>
+<text x="24" y="16" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="500" fill="#F0F6FC">Retrigger</text>
 </svg>
